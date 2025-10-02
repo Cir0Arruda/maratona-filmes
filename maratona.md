@@ -1,4 +1,4 @@
-# Minha Lista de Filmes para Maratonar
+git # Minha Lista de Filmes para Maratonar
 
 Esta é a minha seleção de filmes essenciais.
 
@@ -13,3 +13,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
+- [ ] Harry Potter e a Pedra Filosofal
+- [ ] O Japonês desencantado
